@@ -1,3 +1,5 @@
+Below is a summary or this project written in the Amazon PR/FAQ format
+
 ### **Next Gen Neural Network Deployment Unveiled**
 
 Using FPGAs, Neural Networks can be run faster and consume less memory
